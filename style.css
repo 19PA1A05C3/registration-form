@@ -17,3 +17,8 @@ body {
     height:160vh;
     line-height: 50px;
 }
+
+.gap{
+    display: inline-block;
+    width: 130px;
+}
